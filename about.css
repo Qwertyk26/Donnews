@@ -1,0 +1,15 @@
+body {
+    padding: 10px;
+    font-family: PT_Serif;
+    font-size: 18px;
+}
+img {
+    width: 100%;
+}
+table {
+    width: 100%;
+}
+@font-face {
+    font-family: PT_Serif;
+    src: url(PT_Serif-Web-Regular.ttf);
+}
